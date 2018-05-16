@@ -28,7 +28,6 @@
         <activity android:name=".QuotesActivity" />
         <activity android:name=".CoworkingActivity" />
         <activity android:name=".MainActivity" />
-        <activity android:name=".item_kajian_layout"></activity>
     </application>
 
 </manifest>

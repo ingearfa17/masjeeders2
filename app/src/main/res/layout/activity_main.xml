@@ -27,11 +27,7 @@
             <!--android:text="@string/title_home" />-->
 
     </FrameLayout>
-
-    <android.support.v7.widget.RecyclerView
-        android:id="@+id/recyclerview_car"
-        android:layout_width="match_parent"
-        android:layout_height="411dp"></android.support.v7.widget.RecyclerView>
+    
 
     <android.support.design.widget.BottomNavigationView
         android:id="@+id/navigation"
