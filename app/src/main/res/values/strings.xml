@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Masjeeders</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">About Us</string>
+    <string name="title_notifications">My Account</string>
+    <string name="title_about">Masjeeders Version 1.0 adalah Aplikasi Pemberdayaan Masjid pertama di Indonesia. Aplikasi ini mempermudah dalam pemberdayaan masjid terutama mengenai informasi
+    kajian-kajian di Masjid terdekat dengan lokasi anda, dan membantu anda dalam transaksi Zakat, Infaq dan Shodaqoh. Transaksi ZIS Aman, dan Informasi Kajian serta quotes-quotes yang menambah semangat dalam
+        menjalankan syariat beragama. Please Rate Our Apps In PlayStore</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
+
+
+
+
